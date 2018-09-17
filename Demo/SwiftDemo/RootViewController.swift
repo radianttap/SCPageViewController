@@ -30,10 +30,10 @@ class RootViewController : UIViewController , SCPageViewControllerDataSource, SC
         self.pageViewController.dataSource = self;
         self.pageViewController.delegate = self;
         
-        self.addChildViewController(self.pageViewController)
+        self.addChild(self.pageViewController)
         self.pageViewController.view.frame = self.view.bounds
         self.view.addSubview(self.pageViewController.view)
-        self.pageViewController.didMove(toParentViewController: self)
+        self.pageViewController.didMove(toParent: self)
     }
     
     //MARK: - SCPageViewControllerDataSource
