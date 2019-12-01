@@ -9,27 +9,27 @@
 /* Begin PBXBuildFile section */
 		D0E68567239431150072D4C6 /* Framework.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68565239431150072D4C6 /* Framework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D0E68586239431550072D4C6 /* easing.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E6856E239431550072D4C6 /* easing.h */; };
-		D0E68587239431550072D4C6 /* SCScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E6856F239431550072D4C6 /* SCScrollView.h */; };
+		D0E68587239431550072D4C6 /* SCScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E6856F239431550072D4C6 /* SCScrollView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D0E68588239431550072D4C6 /* SCWeakObjectWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68570239431550072D4C6 /* SCWeakObjectWrapper.h */; };
 		D0E68589239431550072D4C6 /* SCEasingFunction.m in Sources */ = {isa = PBXBuildFile; fileRef = D0E68571239431550072D4C6 /* SCEasingFunction.m */; };
 		D0E6858A239431550072D4C6 /* easing.c in Sources */ = {isa = PBXBuildFile; fileRef = D0E68572239431550072D4C6 /* easing.c */; };
 		D0E6858B239431550072D4C6 /* SCScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = D0E68573239431550072D4C6 /* SCScrollView.m */; };
-		D0E6858C239431550072D4C6 /* SCEasingFunctionProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68574239431550072D4C6 /* SCEasingFunctionProtocol.h */; };
+		D0E6858C239431550072D4C6 /* SCEasingFunctionProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68574239431550072D4C6 /* SCEasingFunctionProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D0E6858D239431550072D4C6 /* SCEasingFunction.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68575239431550072D4C6 /* SCEasingFunction.h */; };
 		D0E6858E239431550072D4C6 /* SCWeakObjectWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = D0E68576239431550072D4C6 /* SCWeakObjectWrapper.m */; };
 		D0E6858F239431550072D4C6 /* SCPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0E68578239431550072D4C6 /* SCPageViewController.m */; };
-		D0E68590239431550072D4C6 /* SCPageViewControllerView.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68579239431550072D4C6 /* SCPageViewControllerView.h */; };
+		D0E68590239431550072D4C6 /* SCPageViewControllerView.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68579239431550072D4C6 /* SCPageViewControllerView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D0E68591239431550072D4C6 /* SCParallaxPageLayouter.m in Sources */ = {isa = PBXBuildFile; fileRef = D0E6857B239431550072D4C6 /* SCParallaxPageLayouter.m */; };
 		D0E68592239431550072D4C6 /* SCSlidingPageLayouter.m in Sources */ = {isa = PBXBuildFile; fileRef = D0E6857C239431550072D4C6 /* SCSlidingPageLayouter.m */; };
 		D0E68593239431550072D4C6 /* SCCardsPageLayouter.m in Sources */ = {isa = PBXBuildFile; fileRef = D0E6857D239431550072D4C6 /* SCCardsPageLayouter.m */; };
 		D0E68594239431550072D4C6 /* SCPageLayouter.m in Sources */ = {isa = PBXBuildFile; fileRef = D0E6857E239431550072D4C6 /* SCPageLayouter.m */; };
-		D0E68595239431550072D4C6 /* SCPageLayouterProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E6857F239431550072D4C6 /* SCPageLayouterProtocol.h */; };
-		D0E68596239431550072D4C6 /* SCSlidingPageLayouter.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68580239431550072D4C6 /* SCSlidingPageLayouter.h */; };
-		D0E68597239431550072D4C6 /* SCParallaxPageLayouter.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68581239431550072D4C6 /* SCParallaxPageLayouter.h */; };
-		D0E68598239431550072D4C6 /* SCCardsPageLayouter.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68582239431550072D4C6 /* SCCardsPageLayouter.h */; };
-		D0E68599239431550072D4C6 /* SCPageLayouter.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68583239431550072D4C6 /* SCPageLayouter.h */; };
+		D0E68595239431550072D4C6 /* SCPageLayouterProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E6857F239431550072D4C6 /* SCPageLayouterProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D0E68596239431550072D4C6 /* SCSlidingPageLayouter.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68580239431550072D4C6 /* SCSlidingPageLayouter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D0E68597239431550072D4C6 /* SCParallaxPageLayouter.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68581239431550072D4C6 /* SCParallaxPageLayouter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D0E68598239431550072D4C6 /* SCCardsPageLayouter.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68582239431550072D4C6 /* SCCardsPageLayouter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D0E68599239431550072D4C6 /* SCPageLayouter.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68583239431550072D4C6 /* SCPageLayouter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D0E6859A239431550072D4C6 /* SCPageViewControllerView.m in Sources */ = {isa = PBXBuildFile; fileRef = D0E68584239431550072D4C6 /* SCPageViewControllerView.m */; };
-		D0E6859B239431550072D4C6 /* SCPageViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68585239431550072D4C6 /* SCPageViewController.h */; };
+		D0E6859B239431550072D4C6 /* SCPageViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E68585239431550072D4C6 /* SCPageViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -117,11 +117,11 @@
 		D0E68577239431550072D4C6 /* SCPageViewController */ = {
 			isa = PBXGroup;
 			children = (
-				D0E68578239431550072D4C6 /* SCPageViewController.m */,
-				D0E68579239431550072D4C6 /* SCPageViewControllerView.h */,
 				D0E6857A239431550072D4C6 /* Layouters */,
+				D0E68579239431550072D4C6 /* SCPageViewControllerView.h */,
 				D0E68584239431550072D4C6 /* SCPageViewControllerView.m */,
 				D0E68585239431550072D4C6 /* SCPageViewController.h */,
+				D0E68578239431550072D4C6 /* SCPageViewController.m */,
 			);
 			path = SCPageViewController;
 			sourceTree = "<group>";
